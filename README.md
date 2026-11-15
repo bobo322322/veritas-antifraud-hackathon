@@ -1,4 +1,4 @@
-# Veritas Anti-Fraud
+# -Veritas Anti-Fraud-
 
 **Cost-sensitive machine learning for credit card fraud detection**  
 Hackathon prototype · Track: **Finance**
